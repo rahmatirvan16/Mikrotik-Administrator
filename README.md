@@ -1,5 +1,5 @@
 ### Network Fundamental [Klik Disini]
-### Lab Setup [Klik Disini]
+### Lab Setup [Klik Disini](https://github.com/rahmatirvan16/lab-setup)
 ### Internet Gateway [Klik Disini]
 ### Firewall Filter [Klik Disini]
 ### Firewall Address List [Klik Disini]
