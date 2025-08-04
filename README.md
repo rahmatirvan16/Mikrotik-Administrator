@@ -26,8 +26,42 @@
 - Konfigurasi DNS Server
 - NAT - Redirect
 ### Statis Routing [Klik Disini]
+- Mengaktifkan RoMON pada Mikrotik
+- Konfigurasi Adressing
+- Setup Topology & Static Routing Router
+- Default Route
+- NAT Pada satu Router
 ### OSPF [Klik Disini]
+- Pengenalan OSPF
+- Menambahkan Router Baru
+- Konfigurasi OSPF pada router
+- Restribute Default Route & Internet
 ### Bridge [Klik Disini]
+- Jonfigurasi DHCP Server + NAT Pada Topology Bridge
 ### Tunnel & VPN [Klik Disini]
+- Konsep Tunnel & VPN
+- Pengenalan & Konfigurasi EOIP
+- Menghubungkan antar komputer dengan EOIP
+- Konfigurasi Internet untuk Client
+- Persiapan Topology PPTP Tunnel
+- Konfigurasi Static Routing Untuk PPTP
+- Pengenalan L2TP + IPSec
+- Pengenalan PPPoE
+- Konfigurasi PPPoE Server di ISP
+- Konfigurasi PPPoE Client di Customer
+- Share Internet Connection di Costumer
+- Limit bandeidth pada PPPoE
 ### Fail Over & Load Balance [Klik Disini]
+- Konsep Fail Over & Load Balance
+- Konfigurasi Fail Over
+- Check Gateway
+- Load Balance ECMP
+- Load Balance Routing Mark (Route Rules)
+- Konsep Main Routing
+- Load Balance Routing Mark (Firewall Mangle)
+- Address List untuk Mangle
 ### Hotspot [Klik Disini]
+- Setup Hostpot
+- Menambah User
+- Menghilangkan Cookies
+- Menambah User Profile untuk limit bandwidth
