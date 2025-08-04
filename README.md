@@ -38,7 +38,7 @@
 - Konfigurasi OSPF pada router
 - Restribute Default Route & Internet
 ### Bridge [Klik Disini]
-- Jonfigurasi DHCP Server + NAT Pada Topology Bridge
+- Konfigurasi DHCP Server + NAT Pada Topology Bridge
 ### Tunnel & VPN [Klik Disini]
 - Konsep Tunnel & VPN
 - Pengenalan & Konfigurasi EOIP
