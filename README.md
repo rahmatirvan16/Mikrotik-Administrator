@@ -52,7 +52,7 @@
 - Konfigurasi PPPoE Client di Customer
 - Share Internet Connection di Costumer
 - Limit bandeidth pada PPPoE
-### Fail Over & Load Balance [Klik Disini]
+### Fail Over & Load Balance [Klik Disini](https://github.com/rahmatirvan16/Fail-Over-dan-Load-Balance)
 - Konsep Fail Over & Load Balance
 - Konfigurasi Fail Over
 - Check Gateway
