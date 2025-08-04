@@ -3,7 +3,7 @@
 - IP Public vs IP Private
 - OSI Layer
 ### Lab Setup [Klik Disini](https://github.com/rahmatirvan16/lab-setup)
-_ Cara Setting GNS3 di VM
+- Cara Setting GNS3 di VM
 ### Internet Gateway [Klik Disini]
 - Konfigurasi WAN dengan DHCP Client
 - Konfigurais DHCP Server
